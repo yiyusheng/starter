@@ -3,7 +3,7 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  siteurl: 'http://yiyusheng.github.com/index.html'
+  siteurl: 'http://yiyusheng.github.io/index.html'
   relativeLinks: 'www.hust.edu.cn'
   media: 'media'
   metadata:
